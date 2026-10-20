@@ -1,1 +1,1 @@
-<h1>I'm <span>Rafael</span></h1>
+<h1>I'm <span style="color: #58A6FF;">Rafael</span></h1>
