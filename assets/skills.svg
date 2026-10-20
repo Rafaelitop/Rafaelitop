@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="406" viewBox="0 0 1000 406" role="img" aria-labelledby="title desc">
+  <title id="title">Tech Stack — Rafael Sanjuan</title>
+  <desc id="desc">Programming: Python, JavaScript, Java, C++, SQL. Web: React, Flask, FastAPI, HTML, CSS. Data: PostgreSQL, MySQL, Pandas, NumPy. Tools: Git.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#10233C"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="404" rx="18" fill="url(#bg)" stroke="#305D95" stroke-width="2"/>
+  <path d="M58 54 L42 70 L58 86 M83 54 L99 70 L83 86 M76 48 L65 92" fill="none" stroke="#58A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119" y="80" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#E6EDF3">Tech Stack</text>
+  <rect x="36" y="100" width="928" height="2" fill="url(#rule)"/>
+
+  <rect x="36" y="124" width="450" height="115" rx="13" fill="#111F31" stroke="#2A425D"/>
+  <text x="56" y="154" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#8DC4FF">PROGRAMMING LANGUAGES</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E6EDF3" text-anchor="middle">
+    <rect x="56" y="174" width="85" height="38" rx="9" fill="#1B3552"/><text x="98.5" y="199">Python</text>
+    <rect x="150" y="174" width="110" height="38" rx="9" fill="#1B3552"/><text x="205" y="199">JavaScript</text>
+    <rect x="269" y="174" width="65" height="38" rx="9" fill="#1B3552"/><text x="301.5" y="199">Java</text>
+    <rect x="343" y="174" width="60" height="38" rx="9" fill="#1B3552"/><text x="373" y="199">C++</text>
+    <rect x="412" y="174" width="54" height="38" rx="9" fill="#1B3552"/><text x="439" y="199">SQL</text>
+  </g>
+
+  <rect x="514" y="124" width="450" height="115" rx="13" fill="#111F31" stroke="#2A425D"/>
+  <text x="534" y="154" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#8DC4FF">WEB &amp; BACKEND</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E6EDF3" text-anchor="middle">
+    <rect x="534" y="174" width="80" height="38" rx="9" fill="#1B3552"/><text x="574" y="199">React</text>
+    <rect x="623" y="174" width="73" height="38" rx="9" fill="#1B3552"/><text x="659.5" y="199">Flask</text>
+    <rect x="705" y="174" width="89" height="38" rx="9" fill="#1B3552"/><text x="749.5" y="199">FastAPI</text>
+    <rect x="803" y="174" width="69" height="38" rx="9" fill="#1B3552"/><text x="837.5" y="199">HTML</text>
+    <rect x="881" y="174" width="63" height="38" rx="9" fill="#1B3552"/><text x="912.5" y="199">CSS</text>
+  </g>
+
+  <rect x="36" y="254" width="590" height="115" rx="13" fill="#111F31" stroke="#2A425D"/>
+  <text x="56" y="284" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#8DC4FF">DATABASES &amp; DATA</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E6EDF3" text-anchor="middle">
+    <rect x="56" y="304" width="122" height="38" rx="9" fill="#1B3552"/><text x="117" y="329">PostgreSQL</text>
+    <rect x="187" y="304" width="90" height="38" rx="9" fill="#1B3552"/><text x="232" y="329">MySQL</text>
+    <rect x="286" y="304" width="91" height="38" rx="9" fill="#1B3552"/><text x="331.5" y="329">Pandas</text>
+    <rect x="386" y="304" width="92" height="38" rx="9" fill="#1B3552"/><text x="432" y="329">NumPy</text>
+  </g>
+
+  <rect x="644" y="254" width="320" height="115" rx="13" fill="#111F31" stroke="#2A425D"/>
+  <text x="664" y="284" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#8DC4FF">TOOLS</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#E6EDF3" text-anchor="middle">
+    <rect x="664" y="304" width="82" height="38" rx="9" fill="#1B3552"/><text x="705" y="329">Git</text>
+  </g>
+</svg>
